@@ -1,0 +1,7 @@
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\bin\Debug\TriangleNumbers.exe.config
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\bin\Debug\TriangleNumbers.exe
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\bin\Debug\TriangleNumbers.pdb
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\obj\Debug\TriangleNumbers.csprojAssemblyReference.cache
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\obj\Debug\TriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\obj\Debug\TriangleNumbers.exe
+C:\Users\Falcon\source\repos\TriangleNumbers\TriangleNumbers\obj\Debug\TriangleNumbers.pdb
